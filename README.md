@@ -1,5 +1,5 @@
-<H3> Dhivya Dharshini B </H3>
-<H3>212223240031</H3>
+<H3> Name Dhivya Dharshini B </H3>
+<H3>Reg No:212223240031</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
